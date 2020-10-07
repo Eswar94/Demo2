@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 First file in Master branch
+
